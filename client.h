@@ -12,8 +12,8 @@ public:
 		this->number = number;
 	}
 	client() {
-		name = "Антон";
-		surname = "Красов";
+		name = "РђРЅС‚РѕРЅ";
+		surname = "РљСЂР°СЃРѕРІ";
 		number = "911";
 	}
 	string getname() {
